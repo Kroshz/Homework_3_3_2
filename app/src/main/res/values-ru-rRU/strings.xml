@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework_3_3_2</string>
+    <string name="String_ok">Применить</string>
+    <string name="tv_text">Москва - столица великой России</string>
+    <string-array name="countries">
+        <item>Русский</item>
+        <item>English</item>
+    </string-array>
+</resources>
